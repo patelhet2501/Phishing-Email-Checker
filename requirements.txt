@@ -1,0 +1,5 @@
+# Core runtime
+python-dotenv
+
+# For future enhancements
+tldextract
